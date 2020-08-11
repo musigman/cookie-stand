@@ -1,0 +1,23 @@
+
+body {
+background-color:lightgreen;
+}
+
+img {
+width: 200px;
+}
+
+a,li {
+font-family: 'Roboto Condensed', sans-serif;
+color: darkgoldenrod;
+}
+
+h1, h2, footer {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: darkblue;
+}
+
+h4 {
+font-family: 'Antic Slab', serif;
+color: darkolivegreen;
+}
